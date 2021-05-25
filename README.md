@@ -29,11 +29,20 @@ Critical findings: This research proves the hypothesis that contextual informati
 
 
 Description of all experiments run
+
+
 Notebooks: 
-Response on select Ling. Features=
-Response on All ling. Features= 
-Response and context on select ling. Features = 
-Response and context on All ling. Features=
+
+Response on select Ling. Features= response_select.ipynb
+
+
+Response on All ling. Features= response_ALL_features.ipynb
+
+
+Response and context on select ling. Features = response_context_select.ipynb
+
+
+Response and context on All ling. Features= response_context_ALL.ipynb
 
 
 
